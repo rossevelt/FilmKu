@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [androidx.core:core-ktx:1.3.2] /home/yosua/.gradle/caches/transforms-3/bcdf58cac45fc0b372287d1379197d63/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0-alpha01] /home/yosua/.gradle/caches/transforms-3/7a7a4d05cefb9ee63fb135bee0fa8dad/transformed/material-1.3.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/yosua/.gradle/caches/transforms-3/ad3cca369f46fe7bb8af1e335b9d028a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /home/yosua/.gradle/caches/transforms-3/8fb8947ee1f5bb3dc9dd20a2e5195385/transformed/jetified-android-networking-1.0.2/AndroidManifest.xml:18:1-27:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/yosua/.gradle/caches/transforms-3/428dd9eeaa17f573039b22bebecb12fd/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /home/yosua/.gradle/caches/transforms-3/848f3b4dea2209c1954a1117b55d0124/transformed/jetified-glide-4.13.2/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/yosua/.gradle/caches/transforms-3/3cf1ca94aeebc62e92bb41a04e8aa3c5/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] /home/yosua/.gradle/caches/transforms-3/27daa74e60780eaceb0c5c7ebc81d84b/transformed/jetified-roundedimageview-2.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/yosua/.gradle/caches/transforms-3/7751a7f107f0947edb1e34a2ab50956b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/yosua/.gradle/caches/transforms-3/3aff1d5712a1c17d94b078596532a754/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/yosua/.gradle/caches/transforms-3/959f0582c42a33e0aaa6ef5a3614922e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/yosua/.gradle/caches/transforms-3/bac229de683f7607bfd48108d52e7bc9/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/yosua/.gradle/caches/transforms-3/67a4e3de6cbf095b51dc0c5285998348/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/yosua/.gradle/caches/transforms-3/913c8defb5da47b4b9aea075fb3d4260/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/yosua/.gradle/caches/transforms-3/7a655b90eadfdea9fd29d3e0ab23666c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/yosua/.gradle/caches/transforms-3/fb68be45a13a19e331542404cc9ee6d1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/yosua/.gradle/caches/transforms-3/afac4e7628036f539deeb4c801ef6fe3/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.1] /home/yosua/.gradle/caches/transforms-3/d7233c1b000ab22481efedcee9464869/transformed/fragment-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/yosua/.gradle/caches/transforms-3/d0f703ccf54cf17839d4cd44ff451a3f/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/yosua/.gradle/caches/transforms-3/40550251c38ec607791d9ca1323885d8/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/yosua/.gradle/caches/transforms-3/ee1709d072a930092941437362c64b9a/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/yosua/.gradle/caches/transforms-3/d4f39207b411afcb5aff402b73556544/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/yosua/.gradle/caches/transforms-3/d3ad79c1a39f223d0fe38abc3542b37b/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.1] /home/yosua/.gradle/caches/transforms-3/1b7c742c754c8f071f27f767f448665b/transformed/jetified-activity-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /home/yosua/.gradle/caches/transforms-3/795f5cb38c435a573cba641103f484fe/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/yosua/.gradle/caches/transforms-3/fb57ac3ad719569a3b714e4dfdddcadc/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /home/yosua/.gradle/caches/transforms-3/59262faa79c6f0874360402fa443e337/transformed/jetified-gifdecoder-4.13.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/yosua/.gradle/caches/transforms-3/d0494f1e00109b035a1dc9c5491a07cf/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/yosua/.gradle/caches/transforms-3/f3b57b62d5258f342a07389304e79773/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/yosua/.gradle/caches/transforms-3/4855996b80992cdb45fa0f14c1d303eb/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /home/yosua/.gradle/caches/transforms-3/ac454824d60ba4bb42e2c6498a365db7/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /home/yosua/.gradle/caches/transforms-3/f3f1148c0de60fba359c6a467f0108bc/transformed/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/yosua/.gradle/caches/transforms-3/87a7217485ec8a991849663fe7bfe826/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/yosua/.gradle/caches/transforms-3/c8c677766796335a87efd3a9b46834af/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/yosua/.gradle/caches/transforms-3/7170a27f490f1b2ff3bbe3163a38182d/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/yosua/.gradle/caches/transforms-3/77a1fe37453a99d0d4fdc0982cdc3d93/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/yosua/.gradle/caches/transforms-3/46f0ae72253428e5ba313e3f301c80c9/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /home/yosua/.gradle/caches/transforms-3/b436a626672efa4ea2cb59e8d2251ef7/transformed/lifecycle-runtime-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/yosua/.gradle/caches/transforms-3/43d0d5ed67f82c2d984f99eee46c8ff4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /home/yosua/.gradle/caches/transforms-3/04e2fb66b7a8c226d15f7c656a0145dd/transformed/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/yosua/.gradle/caches/transforms-3/5359aed6352df599880ff30479aa4b4b/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/yosua/.gradle/caches/transforms-3/99a1072a4cf1c09e6aec654426d3e16f/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:7:5-26:19
+MERGED from [com.google.android.material:material:1.3.0-alpha01] /home/yosua/.gradle/caches/transforms-3/7a7a4d05cefb9ee63fb135bee0fa8dad/transformed/material-1.3.0-alpha01/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-alpha01] /home/yosua/.gradle/caches/transforms-3/7a7a4d05cefb9ee63fb135bee0fa8dad/transformed/material-1.3.0-alpha01/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/yosua/.gradle/caches/transforms-3/ad3cca369f46fe7bb8af1e335b9d028a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/yosua/.gradle/caches/transforms-3/ad3cca369f46fe7bb8af1e335b9d028a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /home/yosua/.gradle/caches/transforms-3/848f3b4dea2209c1954a1117b55d0124/transformed/jetified-glide-4.13.2/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /home/yosua/.gradle/caches/transforms-3/848f3b4dea2209c1954a1117b55d0124/transformed/jetified-glide-4.13.2/AndroidManifest.xml:10:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/yosua/.gradle/caches/transforms-3/7751a7f107f0947edb1e34a2ab50956b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/yosua/.gradle/caches/transforms-3/7751a7f107f0947edb1e34a2ab50956b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.3.2] /home/yosua/.gradle/caches/transforms-3/795f5cb38c435a573cba641103f484fe/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /home/yosua/.gradle/caches/transforms-3/795f5cb38c435a573cba641103f484fe/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /home/yosua/.gradle/caches/transforms-3/59262faa79c6f0874360402fa443e337/transformed/jetified-gifdecoder-4.13.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /home/yosua/.gradle/caches/transforms-3/59262faa79c6f0874360402fa443e337/transformed/jetified-gifdecoder-4.13.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/yosua/.gradle/caches/transforms-3/4855996b80992cdb45fa0f14c1d303eb/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/yosua/.gradle/caches/transforms-3/4855996b80992cdb45fa0f14c1d303eb/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /home/yosua/.gradle/caches/transforms-3/795f5cb38c435a573cba641103f484fe/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:13:9-44
+activity#com.yosua.filmku.activities.DetailMovieActivity
+ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:15:13-59
+activity#com.yosua.filmku.activities.MainActivity
+ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:exported
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:18:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml
+INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] /home/yosua/.gradle/caches/transforms-3/bcdf58cac45fc0b372287d1379197d63/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/yosua/.gradle/caches/transforms-3/bcdf58cac45fc0b372287d1379197d63/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0-alpha01] /home/yosua/.gradle/caches/transforms-3/7a7a4d05cefb9ee63fb135bee0fa8dad/transformed/material-1.3.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-alpha01] /home/yosua/.gradle/caches/transforms-3/7a7a4d05cefb9ee63fb135bee0fa8dad/transformed/material-1.3.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/yosua/.gradle/caches/transforms-3/ad3cca369f46fe7bb8af1e335b9d028a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/yosua/.gradle/caches/transforms-3/ad3cca369f46fe7bb8af1e335b9d028a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /home/yosua/.gradle/caches/transforms-3/8fb8947ee1f5bb3dc9dd20a2e5195385/transformed/jetified-android-networking-1.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /home/yosua/.gradle/caches/transforms-3/8fb8947ee1f5bb3dc9dd20a2e5195385/transformed/jetified-android-networking-1.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/yosua/.gradle/caches/transforms-3/428dd9eeaa17f573039b22bebecb12fd/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/yosua/.gradle/caches/transforms-3/428dd9eeaa17f573039b22bebecb12fd/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /home/yosua/.gradle/caches/transforms-3/848f3b4dea2209c1954a1117b55d0124/transformed/jetified-glide-4.13.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /home/yosua/.gradle/caches/transforms-3/848f3b4dea2209c1954a1117b55d0124/transformed/jetified-glide-4.13.2/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/yosua/.gradle/caches/transforms-3/3cf1ca94aeebc62e92bb41a04e8aa3c5/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/yosua/.gradle/caches/transforms-3/3cf1ca94aeebc62e92bb41a04e8aa3c5/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.makeramen:roundedimageview:2.3.0] /home/yosua/.gradle/caches/transforms-3/27daa74e60780eaceb0c5c7ebc81d84b/transformed/jetified-roundedimageview-2.3.0/AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] /home/yosua/.gradle/caches/transforms-3/27daa74e60780eaceb0c5c7ebc81d84b/transformed/jetified-roundedimageview-2.3.0/AndroidManifest.xml:7:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/yosua/.gradle/caches/transforms-3/7751a7f107f0947edb1e34a2ab50956b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/yosua/.gradle/caches/transforms-3/7751a7f107f0947edb1e34a2ab50956b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/yosua/.gradle/caches/transforms-3/3aff1d5712a1c17d94b078596532a754/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/yosua/.gradle/caches/transforms-3/3aff1d5712a1c17d94b078596532a754/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/yosua/.gradle/caches/transforms-3/959f0582c42a33e0aaa6ef5a3614922e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/yosua/.gradle/caches/transforms-3/959f0582c42a33e0aaa6ef5a3614922e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/yosua/.gradle/caches/transforms-3/bac229de683f7607bfd48108d52e7bc9/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/yosua/.gradle/caches/transforms-3/bac229de683f7607bfd48108d52e7bc9/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/yosua/.gradle/caches/transforms-3/67a4e3de6cbf095b51dc0c5285998348/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/yosua/.gradle/caches/transforms-3/67a4e3de6cbf095b51dc0c5285998348/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/yosua/.gradle/caches/transforms-3/913c8defb5da47b4b9aea075fb3d4260/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/yosua/.gradle/caches/transforms-3/913c8defb5da47b4b9aea075fb3d4260/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/yosua/.gradle/caches/transforms-3/7a655b90eadfdea9fd29d3e0ab23666c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/yosua/.gradle/caches/transforms-3/7a655b90eadfdea9fd29d3e0ab23666c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/yosua/.gradle/caches/transforms-3/fb68be45a13a19e331542404cc9ee6d1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/yosua/.gradle/caches/transforms-3/fb68be45a13a19e331542404cc9ee6d1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/yosua/.gradle/caches/transforms-3/afac4e7628036f539deeb4c801ef6fe3/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/yosua/.gradle/caches/transforms-3/afac4e7628036f539deeb4c801ef6fe3/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.1] /home/yosua/.gradle/caches/transforms-3/d7233c1b000ab22481efedcee9464869/transformed/fragment-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.1] /home/yosua/.gradle/caches/transforms-3/d7233c1b000ab22481efedcee9464869/transformed/fragment-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/yosua/.gradle/caches/transforms-3/d0f703ccf54cf17839d4cd44ff451a3f/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/yosua/.gradle/caches/transforms-3/d0f703ccf54cf17839d4cd44ff451a3f/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/yosua/.gradle/caches/transforms-3/40550251c38ec607791d9ca1323885d8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/yosua/.gradle/caches/transforms-3/40550251c38ec607791d9ca1323885d8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/yosua/.gradle/caches/transforms-3/ee1709d072a930092941437362c64b9a/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/yosua/.gradle/caches/transforms-3/ee1709d072a930092941437362c64b9a/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/yosua/.gradle/caches/transforms-3/d4f39207b411afcb5aff402b73556544/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/yosua/.gradle/caches/transforms-3/d4f39207b411afcb5aff402b73556544/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/yosua/.gradle/caches/transforms-3/d3ad79c1a39f223d0fe38abc3542b37b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/yosua/.gradle/caches/transforms-3/d3ad79c1a39f223d0fe38abc3542b37b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.1] /home/yosua/.gradle/caches/transforms-3/1b7c742c754c8f071f27f767f448665b/transformed/jetified-activity-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.1] /home/yosua/.gradle/caches/transforms-3/1b7c742c754c8f071f27f767f448665b/transformed/jetified-activity-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/yosua/.gradle/caches/transforms-3/795f5cb38c435a573cba641103f484fe/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/yosua/.gradle/caches/transforms-3/795f5cb38c435a573cba641103f484fe/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/yosua/.gradle/caches/transforms-3/fb57ac3ad719569a3b714e4dfdddcadc/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/yosua/.gradle/caches/transforms-3/fb57ac3ad719569a3b714e4dfdddcadc/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /home/yosua/.gradle/caches/transforms-3/59262faa79c6f0874360402fa443e337/transformed/jetified-gifdecoder-4.13.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /home/yosua/.gradle/caches/transforms-3/59262faa79c6f0874360402fa443e337/transformed/jetified-gifdecoder-4.13.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/yosua/.gradle/caches/transforms-3/d0494f1e00109b035a1dc9c5491a07cf/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/yosua/.gradle/caches/transforms-3/d0494f1e00109b035a1dc9c5491a07cf/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/yosua/.gradle/caches/transforms-3/f3b57b62d5258f342a07389304e79773/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/yosua/.gradle/caches/transforms-3/f3b57b62d5258f342a07389304e79773/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/yosua/.gradle/caches/transforms-3/4855996b80992cdb45fa0f14c1d303eb/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/yosua/.gradle/caches/transforms-3/4855996b80992cdb45fa0f14c1d303eb/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /home/yosua/.gradle/caches/transforms-3/ac454824d60ba4bb42e2c6498a365db7/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /home/yosua/.gradle/caches/transforms-3/ac454824d60ba4bb42e2c6498a365db7/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /home/yosua/.gradle/caches/transforms-3/f3f1148c0de60fba359c6a467f0108bc/transformed/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /home/yosua/.gradle/caches/transforms-3/f3f1148c0de60fba359c6a467f0108bc/transformed/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/yosua/.gradle/caches/transforms-3/87a7217485ec8a991849663fe7bfe826/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/yosua/.gradle/caches/transforms-3/87a7217485ec8a991849663fe7bfe826/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/yosua/.gradle/caches/transforms-3/c8c677766796335a87efd3a9b46834af/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/yosua/.gradle/caches/transforms-3/c8c677766796335a87efd3a9b46834af/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/yosua/.gradle/caches/transforms-3/7170a27f490f1b2ff3bbe3163a38182d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/yosua/.gradle/caches/transforms-3/7170a27f490f1b2ff3bbe3163a38182d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/yosua/.gradle/caches/transforms-3/77a1fe37453a99d0d4fdc0982cdc3d93/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/yosua/.gradle/caches/transforms-3/77a1fe37453a99d0d4fdc0982cdc3d93/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/yosua/.gradle/caches/transforms-3/46f0ae72253428e5ba313e3f301c80c9/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/yosua/.gradle/caches/transforms-3/46f0ae72253428e5ba313e3f301c80c9/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /home/yosua/.gradle/caches/transforms-3/b436a626672efa4ea2cb59e8d2251ef7/transformed/lifecycle-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /home/yosua/.gradle/caches/transforms-3/b436a626672efa4ea2cb59e8d2251ef7/transformed/lifecycle-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/yosua/.gradle/caches/transforms-3/43d0d5ed67f82c2d984f99eee46c8ff4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/yosua/.gradle/caches/transforms-3/43d0d5ed67f82c2d984f99eee46c8ff4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /home/yosua/.gradle/caches/transforms-3/04e2fb66b7a8c226d15f7c656a0145dd/transformed/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /home/yosua/.gradle/caches/transforms-3/04e2fb66b7a8c226d15f7c656a0145dd/transformed/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/yosua/.gradle/caches/transforms-3/5359aed6352df599880ff30479aa4b4b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/yosua/.gradle/caches/transforms-3/5359aed6352df599880ff30479aa4b4b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/yosua/.gradle/caches/transforms-3/99a1072a4cf1c09e6aec654426d3e16f/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/yosua/.gradle/caches/transforms-3/99a1072a4cf1c09e6aec654426d3e16f/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml
+INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml
+		ADDED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yosua/Documents/FilmKu/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/yosua/.gradle/caches/transforms-3/7751a7f107f0947edb1e34a2ab50956b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/yosua/.gradle/caches/transforms-3/7751a7f107f0947edb1e34a2ab50956b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/yosua/.gradle/caches/transforms-3/7751a7f107f0947edb1e34a2ab50956b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/yosua/.gradle/caches/transforms-3/7751a7f107f0947edb1e34a2ab50956b/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64

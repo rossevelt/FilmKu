@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FilmKu</string>
+    <string name="up_coming_movies">Up Coming Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="imagebackdrop">imageBackdrop</string>
+    <string name="imageposter">imagePoster</string>
+    <string name="title">Title</string>
+    <string name="original_title">Original Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="ratings">Ratings</string>
+    <string name="_7_0">7.0/</string>
+    <string name="_35">35</string>
+    <string name="description_overview">Description Overview</string>
+    <string name="overview">Overview</string>
+    <string name="popularity">Popularity</string>
+    <string name="_123_000">123.000</string>
+    <string name="btn_grid_2x2">btn grid 2x2</string>
+    <string name="btn_grid_2x3">btn grid 2x3</string>
+</resources>
